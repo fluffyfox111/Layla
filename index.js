@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Regarde des vidéos sur YouTube"];
+const statusMessages = ["Joue à animal crossing"];
 
 
 let currentIndex = 0;
